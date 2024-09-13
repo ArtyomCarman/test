@@ -1,3 +1,3 @@
-//document.querySelector('#age-verification-wrapper').style.display = 'none'
-//document.querySelector('#ageVerificationOverlay').style.display = 'none'
-alert(123)
+document.querySelector('#age-verification-wrapper').style.display = 'none'
+document.querySelector('#ageVerificationOverlay').style.display = 'none'
+
